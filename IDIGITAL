@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Skills Mastery | Special Program for Women</title>
+    
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1430058088673965');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1430058088673965&ev=PageView&noscript=1"
+    /></noscript>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              fontFamily: {
+                sans: ['Poppins', 'sans-serif'],
+              },
+              colors: {
+                brand: '#E91E63', 
+                brandDark: '#C2185B',
+              }
+            }
+          }
+        }
+    </script>
+</head>
+<body class="bg-gray-50 text-gray-800 antialiased font-sans">
+
+    <header class="bg-white border-b border-gray-100 sticky top-0 z-50">
+        <nav class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+            <span class="text-2xl md:text-3xl font-bold text-brand italic">SkillWomen<span class="text-gray-900">Academy</span></span>
+            <span class="hidden md:block text-xs font-medium text-gray-400 uppercase tracking-widest">Educated Women Empowerment Program</span>
+        </nav>
+    </header>
+
+    <section class="bg-white py-16 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-3xl md:text-5xl font-extrabold leading-tight text-gray-950 mb-6">
+                Ambitious <span class="text-brand text-6xl block md:inline">Women</span> Ke Liye Professional <span class="underline decoration-brand decoration-4 underline-offset-8">Digital Skill</span> Training
+            </h1>
+            <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
+                Ghar se kaam karke independent banne ka ek sunhera mauka. Hum sikhate hain wahi skills jo aaj ke time mein sabse zyada demand mein hain.
+            </p>
+            <div class="inline-block bg-pink-50 text-brand px-5 py-2 rounded-full font-semibold text-sm border border-pink-100 mb-4 uppercase tracking-wider">
+                Batch Starting Soon: Limited Seats Only
+            </div>
+        </div>
+    </section>
+
+    <section class="py-12 px-6 bg-gray-50">
+        <div class="max-w-3xl mx-auto bg-white p-8 md:p-12 rounded-[2rem] shadow-xl border border-gray-100">
+            <h2 class="text-2xl font-bold text-gray-900 mb-8 border-l-4 border-brand pl-4 uppercase tracking-tight">Kiske Liye Hai Yeh Program?</h2>
+            
+            <div class="space-y-6">
+                <div class="flex items-center space-x-4">
+                    <div class="bg-green-100 p-2 rounded-full text-green-600 font-bold italic text-xl">✓</div>
+                    <p class="text-gray-700 text-lg">Padhi-likhi Housewives aur Women (Educated Only).</p>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <div class="bg-green-100 p-2 rounded-full text-green-600 font-bold italic text-xl">✓</div>
+                    <p class="text-gray-700 text-lg">Jinke paas apna Smartphone aur Internet connection hai.</p>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <div class="bg-green-100 p-2 rounded-full text-green-600 font-bold italic text-xl">✓</div>
+                    <p class="text-gray-700 text-lg">Jo din ka kam se kam 1 ghanta seekhne ke liye nikal sakti hain.</p>
+                </div>
+                
+                <hr class="my-6 border-gray-100">
+                
+                <div class="bg-pink-50 p-4 rounded-xl border-l-4 border-brand">
+                    <p class="text-brand font-bold text-sm">ATTENTION:</p>
+                    <p class="text-gray-800 italic">"Sirf wahi mahilaon message karein jo serious hain aur naya seekhna chahti hain. Uneducated ya casual enquiries ke liye yeh program nahi hai."</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-20 px-6 text-center">
+        <div class="max-w-xl mx-auto">
+            <h3 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Apna naya career aaj hi start karein</h3>
+            <p class="text-gray-500 mb-10">Niche diye gaye button par click karke humse WhatsApp par judien aur course ki puri jaankari lein.</p>
+
+            <a href="https://wa.me/919045658429?text=Hi%2C%20I%20am%20interested%20in%20learning%20Digital%20Skills.%20I%20match%20all%20eligibility%20criteria.%20Please%20guide%20me." 
+               onclick="fbq('track', 'Lead');"
+               class="inline-flex items-center justify-center bg-green-500 hover:bg-green-600 text-white font-extrabold py-5 px-10 rounded-2xl text-xl transition-all shadow-2xl hover:-translate-y-1 w-full md:w-auto">
+                <svg class="w-6 h-6 mr-3" fill="currentColor" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.588-5.946 0-6.556 5.332-11.888 11.888-11.888 3.176 0 6.161 1.237 8.404 3.48s3.48 5.228 3.48 8.404c0 6.556-5.332 11.888-11.888 11.888-2.096 0-4.141-.547-5.946-1.588l-6.137 1.613zm5.883-3.893l.353.21c1.451.861 3.125 1.315 4.84 1.315 5.122 0 9.288-4.166 9.288-9.287 0-2.484-.967-4.818-2.723-6.574-1.756-1.756-4.089-2.723-6.574-2.723-5.122 0-9.287 4.167-9.287 9.287 0 1.956.611 3.864 1.767 5.457l.232.321-1.035 3.784 3.883-1.018z"/></svg>
+                Join Program via WhatsApp
+            </a>
+            
+            <p class="mt-12 text-xs text-gray-400 font-medium tracking-widest uppercase italic">© 2026 SkillWomen Academy Program</p>
+        </div>
+    </section>
+
+</body>
+</html>
